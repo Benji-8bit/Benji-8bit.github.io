@@ -1,2 +1,2 @@
-# Benji-8bit.github.io
+# Benji8bit.github.io
 Website for learning.
