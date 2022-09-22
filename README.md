@@ -1,4 +1,9 @@
 # Benji8bit.github.io
+
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/3o6fJ42Ud1rylg4eTS/giphy.gif)" width="600" height="300"/>
+</div>
+
 ---
 
 ### :fire: My Stats :
