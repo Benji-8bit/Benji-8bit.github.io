@@ -6,11 +6,8 @@
 
 ---
 
-<div align="center">
 ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benji8bit&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benji8bit&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benji8bit&layout=compact&theme=vision-friendly-dark)]          (https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benji8bit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
